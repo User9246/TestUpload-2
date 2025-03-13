@@ -1,3 +1,5 @@
 body {
-    background: linear-gradient(#6565ffbd, #5e0d94), fixed, no-repeat;
+    background: linear-gradient(#6565ffbd, #5e0d94);
+    background-attachment: fixed ;
+    background-repeat: no-repeat;
 }
